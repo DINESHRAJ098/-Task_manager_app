@@ -1,0 +1,6 @@
+{
+  "name": "Task Manager Application",
+  "description": "Full-stack task management dashboard with JWT authentication, MongoDB/Mongoose models, real-time filtering, priority tracking, and RESTful API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
